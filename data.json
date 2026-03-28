@@ -28,5 +28,17 @@
     "title": "الدوائر الكهربائية المحاضرة 1+2+3+4+5",
     "icon": "fa-solid fa-bullhorn",
     "link": "https://t.me/files5436/11"
-  }
+  },
+    {
+    "id": 6,
+    "title": "ملزمة اللغة الانكليزية /الازمنة",
+    "icon": "fa-solid fa-bullhorn",
+    "link": "https://t.me/files5436/17"
+  },
+   {
+    "id": 7,
+    "title": "الشبكات العملي/محاضرة 1",
+    "icon": "fa-solid fa-bullhorn",
+    "link": "https://t.me/files5436/16"
+  }, 
 ]
